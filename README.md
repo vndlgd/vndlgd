@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent Computer Science graduate from San Diego State University, actively seeking software engineering opportunities.
+I'm a Computer Science graduate from San Diego State University, actively seeking software engineering opportunities.
 
 I have experience with JavaScript, HTML, CSS, Python, Java, C, C++.
 
