@@ -2,7 +2,7 @@
 
 I'm a Computer Science graduate from San Diego State University, actively seeking software engineering opportunities.
 
-I have experience with JavaScript, HTML, CSS, Python, Java, C.
+I have experience with JavaScript, HTML, CSS, Python, C, and Java.
 
 📚 I'm advancing my skills with [The Odin Project](https://www.theodinproject.com/) to explore full-stack web development.
 
