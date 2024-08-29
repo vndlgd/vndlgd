@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm a Computer Science graduate from San Diego State University, currently diving deep into embedded software engineering.
+I'm a Computer Science graduate from San Diego State University, specializing in embedded software engineering.
 
-📚 I'm currently building my skills in Python, C, C++, and working on hands-on projects with Arduino and Raspberry Pi.
+📚 Currently, I’m working on enhancing my skills in Python, C, C++, and building hands-on projects with Arduino and Raspberry Pi.
 
-🔧 I’m focused on developing embedded systems and practical solutions, and I'm working towards securing a role where I can apply these skills in real-world applications.
+🔧 My focus is on developing embedded systems and practical solutions, aiming to contribute to advanced technology projects and solve real-world challenges.
 
-🎵 In my free time, I enjoy making music and exploring new tech projects.
+🎵 Outside of work, I enjoy making music and exploring new tech innovations.
