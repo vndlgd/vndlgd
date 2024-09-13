@@ -4,5 +4,7 @@ I'm a Computer Science graduate from San Diego State University, specializing in
 
 📚 I’m actively developing my skills in Python, C, and C++, while working on projects that involve Raspberry Pi.
 
-🔧 My focus is on developing embedded systems and practical solutions, aiming to solve real-world challenges.
+🔧 I’m passionate about solving problems through code and am open to opportunities in software development. My goal is to contribute to meaningful projects and continuously grow as a software engineer.
+
+
 
