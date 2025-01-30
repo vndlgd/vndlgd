@@ -1,5 +1,9 @@
 ### Hi there 👋
 
-I’m a Software QA Intern at Kitu Systems and a Computer Science graduate from San Diego State University. I’m dedicated to honing my skills in C++ and transitioning into a Software Engineering role.
+I'm a Software QA intern with experience in embedded software development.
+
+With a strong foundation in Computer Science, I’m working toward a full-time Software Engineering role.
+
+In my free time, I’m diving into modern C++ through audio programming.
 
 
