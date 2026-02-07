@@ -1,11 +1,6 @@
 ## Hi, I’m Ivan 👋
 
 CS grad with 2 years of experience in software quality assurance. 
-I’m currently learning backend development with Boot.dev.
-
-### What I’m working on
-- Memory management in C ([Boot.dev course](https://www.boot.dev/courses/learn-memory-management-c))
-
 
 <!--
 **vndlgd/vndlgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
