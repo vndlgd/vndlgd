@@ -1,6 +1,6 @@
 ## Hi, I’m Ivan 
 
-I'm a Software QA Engineer at Kitu Systems, testing distributed energy and EV charging systems.
+Software QA Engineer at Kitu Systems testing IEEE 2030.5 smart energy software.
 
 Currently learning backend development with [Boot.dev](https://www.boot.dev/)
 
