@@ -1,6 +1,9 @@
 ## Hi, I’m Ivan 👋
 
-CS grad with 2 years of experience in software quality assurance. 
+Software QA Engineer @ Kitu Systems
+Testing distributed energy and EV charging systems
+
+Currently learning backend development with [Boot.dev](https://www.boot.dev/)
 
 <!--
 **vndlgd/vndlgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
