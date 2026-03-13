@@ -1,4 +1,4 @@
-## Hi, I’m Ivan 👋
+## Hi, I’m Ivan 
 
 I'm a Software QA Engineer at Kitu Systems, testing distributed energy and EV charging systems.
 
